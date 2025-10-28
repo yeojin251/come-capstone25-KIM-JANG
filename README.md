@@ -15,7 +15,8 @@
   - 브라우저 내부 스크립트 조작을 통해 입력값을 가로채는 공격에는 대응이 어려움
   
 ## System Design
-<img width="634" height="312" alt="capstone" src="https://github.com/user-attachments/assets/7271ef59-e2a7-488a-bbf2-f501abbd2543" />
+<img width="1564" height="769" alt="capstone" src="https://github.com/user-attachments/assets/f5c31502-0c60-44ad-aaa1-190498ab55c0" />
+
 
 
   - ### System Requirements
