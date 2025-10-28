@@ -1,0 +1,31 @@
+# Hyperledger Fabric crypto / channel artifacts
+organizations/
+crypto-config/
+channel-artifacts/
+*.block
+*.tx
+
+# Logs / caches / build
+*.log
+*.out
+*.pid
+__pycache__/
+*.pyc
+node_modules/
+build/
+dist/
+bin/
+
+vendor/
+.cache/
+*.DS_Store
+
+# Python / Env
+.venv/
+venv/
+.env
+
+# Go build
+*.mod
+*.sum
+
