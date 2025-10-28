@@ -15,7 +15,8 @@
   - 브라우저 내부 스크립트 조작을 통해 입력값을 가로채는 공격에는 대응이 어려움
   
 ## System Design
-<img width="942" height="450" alt="image" src="https://github.com/user-attachments/assets/7d6baf8b-6210-430d-9676-05189cf6ebc7" />
+<img width="634" height="312" alt="capstone" src="https://github.com/user-attachments/assets/7271ef59-e2a7-488a-bbf2-f501abbd2543" />
+
 
   - ### System Requirements
     - Python 3.10
